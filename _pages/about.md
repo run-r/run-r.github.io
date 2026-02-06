@@ -49,9 +49,15 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 <div class="badge">AAAI 2024</div>
 <img src='images/nama.png' alt="NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
+  
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Nizhuan Wang, Kaicong Sun, Dinggang Shen
+  
 **AAAI Conference on Artificial Intelligence (AAAI), 2024**
-[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215) </div> </div>
+
+[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
+  
+</div>
+</div>
 
 
 
