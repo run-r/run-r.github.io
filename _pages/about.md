@@ -64,7 +64,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 <div class='paper-box-image'>
 <div>
 <div class="badge">AAAI 2024</div>
-<img src='./images/nama.jpg' alt="NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='./images/nama.jpg' alt="NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
   
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Nizhuan Wang, Kaicong Sun, Dinggang Shen
@@ -82,7 +82,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 <div class='paper-box-image'>
 <div>
 <div class="badge">Radiology: Imaging Cancer</div>
-<img src='_pages/images/radiology.jpg' alt=""Predicting Recurrence in Locally Advanced Rectal Cancer using Multi-task Deep Learning and Multimodal MRI"' markdown="1">
+<img src='./images/radiology.jpg' alt="Predicting Recurrence in Locally Advanced Rectal Cancer using Multi-task Deep Learning and Multimodal MRI" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Predicting Recurrence in Locally Advanced Rectal Cancer using Multi-task Deep Learning and Multimodal MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12130701/pdf/rycan.240359.pdf)
   
 Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, Tong Tong, Dinggang Shen
@@ -99,7 +99,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">TBME 2025</div>
-<img src='_pages/images/tbme.jpg' alt="A Neighbor-sensitive Multi-modal Flexible Learning Framework for Improved Prostate Tumor Segmentation in Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='./images/TBME.jpg' alt="A Neighbor-sensitive Multi-modal Flexible Learning Framework for Improved Prostate Tumor Segmentation in Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [A Neighbor-sensitive Multi-modal Flexible Learning Framework for Improved Prostate Tumor Segmentation in Anisotropic MR Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10971210)
   
 **Runqi Meng**, Jingli Chen, Kaicong Sun, Qianqian Chen, Xiao Zhang, Ling Dai, Yuning Gu, Guangyu Wu, Dinggang Shen
