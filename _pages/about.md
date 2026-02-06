@@ -38,16 +38,16 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *2023.04*: One paper accepted by IEEE ISBI.
 - *2021.11*: One paper accepted by Nature Communications.
 - *2021.09*: Begin my journey in IDEA Lab, ShanghaiTech University under the supervision of Prof. Dinggang Shen.
-- *2021.06*: Obtained my B.Eng. degree from Central South University.
+- *2021.06*: Obtain my B.Eng. degree from Central South University.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Deep Residual Learning for Image Recognition] (https://ojs.aaai.org/index.php/AAAI/article/view/28215)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Runqi Meng**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
