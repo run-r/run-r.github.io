@@ -41,7 +41,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *[06/2021]*: Obtained B.Eng. degree from Central South University.
 
 
-# 📝 Publications | ^ (co-first author)
+# 📝 Selected Publications | ^ (co-first author)
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -130,22 +130,24 @@ Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, 
   
 
 
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Education
-- *[09/2021] – Present*: Ph.D. in Computer Science and Biomedical Engineering, ShanghaiTech University, Shanghai, China.  
+
+- *[09/2021] – Present*: Ph.D. in Computer Science and Biomedical Engineering, ShanghaiTech University, Shanghai, China.
 - *[09/2017] – [06/2021]*: B.Eng. in Electronic Information Science and Technology, Central South University, Changsha, China.
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *[09/2024] – [09/2025]*: Ph.D. in Computer Science and Biomedical Engineering, ShanghaiTech University, Shanghai, China.  
-- *[09/2024] – [06/2021]*: B.Eng. in Electronic Information Science and Technology, Central South University, Changsha, China.
+# 💼 Experience
+
+- *[09/2024] – [09/2025]*: Visiting Research Scholar, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+- *[06/2024] – [08/2024]*: Research Intern, United Imaging Intelligence (UII), Shanghai, China.
+
+
+
+# 🎖 Selected Honors and Awards
+
+- Outstanding Student Award, ShanghaiTech University, [2024], [2025].
+- National Encouragement Scholarship, Ministry of Education of China, [2018], [2020].
+- Academic Excellence Scholarship, Central South University and ShanghaiTech University, [2018], [2019], [2020], [2022], [2023], [2024], [2025].
+
 
