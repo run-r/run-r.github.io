@@ -37,6 +37,8 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *2024.01*: One paper accepted by IEEE TMI.
 - *2023.04*: One paper accepted by IEEE ISBI.
 - *2021.11*: One paper accepted by Nature Communications.
+- *2021.09*: Begin my journey in IDEA Lab, ShanghaiTech University under the supervision of Prof. Dinggang Shen.
+- *2021.06*: Obtained my B.Eng. degree from Central South University.
 
 # 📝 Publications 
 
