@@ -47,7 +47,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 <div class='paper-box-image'>
 <div>
 <div class="badge">MICCAI 2025</div>
-<img src='_pages/images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='./images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf)
   
 **Runqi Meng**, Sifan Song, Pengfei Jin, Lin Teng, Yujin Oh, Yulin Wang, Yiqun Sun, Ling Chen, Xiang Li, Quanzheng Li, Ning Guo, Dinggang Shen
@@ -116,7 +116,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">BMC Medical Informatics and Decision Making, 2025</div>
-<img src='_pages/images/bmc.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='./images/bmc.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC12143085/)
   
 Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, Manman Li, Caixia Fu, Rong Li, Feng Feng, Yonggang Li, Tong Tong, Yajia Gu, Yiqun Sun, Dinggang Shen
