@@ -8,8 +8,9 @@
 # Site Settings
 title                    : "Runqi Meng's Homepage"
 description              : "mengrq@shanghaitech.edu.cn"
-repository               : "heep://runqimeng.github.io"
+repository               : "runqimeng/runqimeng.github.io"
 google_scholar_stats_use_cdn : true
+url: "https://runqimeng.github.io"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
