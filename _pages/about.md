@@ -25,31 +25,33 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 
 
 # 🔥 News
-- *2025.09*: One paper accepted by Radiology: Cancer Imaging.
-- *2025.06*: One paper accepted by BMC Medical Informatics and Decision Making.
-- *2025.06*: One paper accepted by MICCAI.
-- *2025.06*: Three papers accepted by SNMMI.
-- *2025.04*: One paper accepted by IEEE TBME.
-- *2025.09*: I am visiting Massachusetts General Hospital and Harvard Medical School.
-- *2024.06*: Two papers accepted by MICCAI.
-- *2024.05*: One paper accepted by ISMRM.
-- *2024.03*: One paper accepted by AAAI.
-- *2024.01*: One paper accepted by IEEE TMI.
-- *2023.04*: One paper accepted by IEEE ISBI.
-- *2021.11*: One paper accepted by Nature Communications.
-- *2021.09*: Begin my journey in IDEA Lab, ShanghaiTech University under the supervision of Prof. Dinggang Shen.
-- *2021.06*: Obtain my B.Eng. degree from Central South University.
+- *[09/2025]*: One paper accepted by Radiology: Imaging Cancer.
+- *[06/2025]*: One paper accepted by BMC Medical Informatics and Decision Making.
+- *[06/2025]*: One paper accepted by MICCAI.
+- *[06/2025]*: Three papers accepted by SNMMI.
+- *[04/2025]*: One paper accepted by IEEE Transactions on Biomedical Engineering (IEEE TBME).
+- *[09/2025]*: Visiting Massachusetts General Hospital and Harvard Medical School.
+- *[06/2024]*: Two papers accepted by MICCAI.
+- *[05/2024]*: One paper accepted by ISMRM.
+- *[03/2024]*: One paper accepted by AAAI.
+- *[01/2024]*: One paper accepted by IEEE Transactions on Medical Imaging (IEEE TMI).
+- *[04/2023]*: One paper accepted by IEEE ISBI.
+- *[11/2021]*: One paper accepted by Nature Communications.
+- *[09/2021]*: Joined IDEA Lab, ShanghaiTech University under the supervision of Prof. Dinggang Shen.
+- *[06/2021]*: Obtained B.Eng. degree from Central South University.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/nama.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
-
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">AAAI 2024</div>
+<img src='images/nama.png' alt="NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
+[NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Nizhuan Wang, Kaicong Sun, Dinggang Shen
-
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28215) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
+**AAAI Conference on Artificial Intelligence (AAAI), 2024**
+[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215) </div> </div>
 
 
 
