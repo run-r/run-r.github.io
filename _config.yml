@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Runqi Meng(Rachelle)"
-description              : "mengrq@shanghaitech.edu.cn "
-repository               : "RunqiMeng.github.io"
+title                    : "Runqi Meng's Homepage"
+description              : "Runqi Meng (Rachelle) is a PhD student in Computer Science at ShanghaiTech University
+  and visiting researcher at Harvard Medical School and Massachusetts General Hospital.
+  Her research focuses on medical AI, tumor segmentation, and foundation models."
+repository               : "heep://runqimeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
