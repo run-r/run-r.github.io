@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Runqi Meng's Homepage"
-description              : "mengrq@shanghaitech.edu.cn"
+description              : "mengrq@shanghaitech.edu.cn | Research Area: AI4Health,VLM,MLLM"
 
 repository               : "runqimeng/runqimeng.github.io"
 google_scholar_stats_use_cdn : true
@@ -26,7 +26,6 @@ author:
   name             : "Runqi Meng (Rachelle)/孟润琪"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "ShanghaiTech University"
-                      "AI4Health,VLM,MLLM"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
